@@ -1,0 +1,60 @@
+@media screen and (max-width:350px){
+		.block_info {
+			width: 80%;
+			background-color: rgb(38, 0, 0);
+			height: 95%;
+			margin-left:5%;
+			box-shadow: 0 0 100px 20px rgba(240, 1, 1, 0.6);
+			border: 2px solid rgba(221, 3, 3, 0.31);
+			margin-top:1%;
+		
+		}
+	}
+@media screen and (max-width:360px){
+		body {
+			background-color:pink;
+		}
+	}
+	
+@media screen and (max-width:360px){
+		.block_info {
+			width: 80%;
+			background-color: rgb(38, 0, 0);
+			height: 95%;
+			margin-left: 12%;
+			box-shadow: 0 0 100px 20px rgba(240, 1, 1, 0.6);
+			border: 2px solid rgba(221, 3, 3, 0.31);
+			margin-top:1%;
+		
+		}
+	}
+	@media screen and (max-width:320px){
+		.block_info {
+			width: 95%;
+			background-color: rgb(38, 0, 0);
+			height: 95%;
+			margin-left:3%;
+			box-shadow: 0 0 100px 20px rgba(240, 1, 1, 0.6);
+			border: 2px solid rgba(221, 3, 3, 0.31);
+			margin-top:1%;
+		
+		}
+		nav>ul>li>a {
+			color:white;
+			text-decoration:none;
+			padding:16px;
+	
+		}
+	}
+	@media screen and (max-width:350px){
+		.block_info {
+			width: 90%;
+			background-color: rgb(38, 0, 0);
+			height: 95%;
+			margin-left:3%;
+			box-shadow: 0 0 100px 20px rgba(240, 1, 1, 0.6);
+			border: 2px solid rgba(221, 3, 3, 0.31);
+			margin-top:1%;
+		
+		}
+	}
